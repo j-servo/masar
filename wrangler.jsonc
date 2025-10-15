@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "masar",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "masar-db",
+      "database_id": "35d5ede4-a8d7-4c25-b990-3c84462b92c6"
+    }
+  ]
+}
